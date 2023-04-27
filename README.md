@@ -19,7 +19,7 @@ n prune
 ```
 再起動
 ```
-restart
+reboot
 ```
 ## 補足
 Node.jsの最新版を入れたい方はこちらを入力してください
